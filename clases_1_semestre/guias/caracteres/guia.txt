@@ -1,0 +1,28 @@
+Guía de ejercicios de trabajo con cadenas de caracteres
+1. Contar caracteres
+2. Convertir a mayúsculas y minúsculas
+3. Acceder y retornar un carácter específico
+4. Reemplazar palabras
+5. Dividir y unir cadenas
+6. Verificar si una palabra está en la cadena
+7. Invertir una cadena
+8. Contar ocurrencias de cada letra
+9. Palíndromos
+10. Extraer correos electrónicos de un texto
+11. Cifrado César (desplazar letras)
+12. Formateo avanzado con f-strings
+13. Capitalizar cada palabra (tipo título)
+14. Encontrar la palabra más larga en un texto
+15. Extraer hashtags de un texto (como en redes sociales)
+16. Eliminar vocales de una cadena: Dada una frase, devuelve la misma pero sin vocales.
+17. Contar palabras que empiezan con mayúscula: En un texto, determina cuántas palabras
+comienzan con letra mayúscula.
+18. Detectar palabras repetidas: Encuentra las palabras que aparecen más de una vez en un
+párrafo.
+19. Ordenar palabras por longitud: Ordena todas las palabras de una frase desde la más corta
+a la más larga.
+20. Rotar caracteres: Dada una cadena, rota sus caracteres n posiciones hacia la derecha.
+21. Extraer menciones de Twitter: Dado un texto, devuelve todas las menciones que
+comienzan con @.
+22. Generar un acrónimo ignorando palabras comunes: Crea un acrónimo de una frase, pero
+omite palabras como "de", "la", "y".
